@@ -1,0 +1,6 @@
+# There's lots of auxiliary files I don't need to track
+*
+
+!.gitignore
+!*.hs
+!*/
